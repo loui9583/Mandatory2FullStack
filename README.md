@@ -1,3 +1,5 @@
+A simple full-stack app where users can save notes and delete them.
+
 DATABASE: 
 - Implemented a MongoDB database
 
