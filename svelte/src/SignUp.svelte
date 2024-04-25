@@ -1,4 +1,5 @@
 <script>
+    // 
     import { useNavigate } from "svelte-navigator";
     import { api } from "./stores";
     const API = $api;
